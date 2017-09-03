@@ -5,13 +5,12 @@
  前端vue + socket.io  
  后台 nodejs + socket.io
 # 在线demo
-  https://zhixuanziben.github.io/gouyan-demo/dist/index.html#/inTheaters
+  https://chengxg.github.io/junqi
 
 # 项目gif截图
-  ![image](https://github.com/zhixuanziben/gouyan-movie-vue/raw/master/gouyan.gif)  
 
 # 运行项目
-``` bash
+
 # 安装依赖
 npm install
 
