@@ -20,6 +20,7 @@ npm run dev
 # 玩法说明
 ## 【工兵扛军旗】玩法
 
+
 <style>
 	.rule-container {
 		max-height: 350px;
@@ -89,7 +90,6 @@ npm run dev
 		<span class="rule-span-chess">地雷</span>,
 		<span class="rule-span-chess">军旗</span>,
 		<span class="rule-span-chess">炸弹</span>均为对方棋子）。
-	
 	</div>
 	<div class="rule-item-wrap">
 		<span class="rule-item-1">3.杀棋规则： </span>
@@ -104,10 +104,8 @@ npm run dev
 			<span class="rule-span-chess">连长</span>>
 			<span class="rule-span-chess">排长</span>>
 			<span class="rule-span-chess">工兵</span>
-	
 			<span class="rule-span-chess">地雷</span>和
 			<span class="rule-span-chess">军旗</span>不能移动，
-	
 			<span class="rule-span-chess">炸弹</span>可以移动,但是不能进入行营，
 			<span class="rule-span-chess">炸弹</span>可以炸掉除
 			<span class="rule-span-chess">排长</span>之外的棋子； 相同的棋子相遇后同时消失。
