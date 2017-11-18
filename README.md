@@ -3,12 +3,22 @@
 
 # 技术栈
  前端vue + socket.io  
- 后台 nodejs + socket.io
+   后台 nodejs + socket.io
 # 在线demo
   [在线demo http://junqi.chengxg.site](http://junqi.chengxg.site)
 
 # 项目gif截图
-  ![image](https://github.com/chengxg/junqi-client-vue/blob/master/junqi.gif)  
+  ![image](./junqi.gif)  
+
+# 运行项目
+## 安装依赖
+npm install
+## 测试开发
+npm run dev  
+输入localhost:3000即可访问
+## 打包构建
+npm run build  
+编译后修改 static/css下css文件中的font-face路径，将static修改为“../”
 
 # 玩法说明
 ## 【工兵扛军旗】玩法
